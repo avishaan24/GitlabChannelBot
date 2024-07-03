@@ -1,0 +1,6 @@
+.idea
+/appManifest
+/out
+/target
+/src/main/resources/META-INF
+*.DS_Store
